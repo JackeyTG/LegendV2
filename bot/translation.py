@@ -8,7 +8,7 @@ class Translation(object):
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
 For More Details Click Help Button Below..
-@im_goutham_josh
+@psycho_009
 </i>"""    
     
     HELP_TEXT = """
@@ -41,18 +41,18 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@im_goutham_josh
+@psycho_009
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <a href=https://t.me/im_kuttu2_bot>Kuttu Bot 2</a>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/wudixh13/4">Goutham SER</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/psycho_009">😎</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram V2 </a></i>
 
-<b>➥ Source Code</b> : <b> SOURCE CODE IS PVT LTD </b>
+<b>➥ Source Code</b> : <b>Join @MH_moviesgroup01 and dm @psycho_009</b>
 """
 
     STATUS_TEXT = """★ Total Files: {}
