@@ -24,7 +24,7 @@ async def start(bot, update):
      
     
     #CUSTOM FILE CAPTION   
-        caption = f""" 📂 <em>File Name</em>: <code>Kᴜᴛᴛᴜ Bot | {file_name} </code> \n\n🖇 <em>File Size</em>: <code> {file_size} </code>"""
+        caption = f""" 📂 <em>File Name</em>: <code>MH Bot🎥 | {file_name} </code> \n\n🖇 <em>File Size</em>: <code> {file_size} </code>"""
         
         try:
             await update.reply_cached_media(
@@ -34,7 +34,7 @@ async def start(bot, update):
                 parse_mode=enums.ParseMode.HTML,
                 reply_markup=InlineKeyboardMarkup(
                         [[
-                            InlineKeyboardButton('💕Movie Group❤', url="https://t.me/wudixh")
+                            InlineKeyboardButton('💕Movie Group❤', url="https://t.me/MH_moviesgroup01")
                         ]]
                 ))
         except Exception as e:
@@ -43,9 +43,9 @@ async def start(bot, update):
         return
 #pmstart
     buttons = [[
-                    InlineKeyboardButton('Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ💕', url=f"http://t.me/im_kuttu2_bot?startgroup=true")
+                    InlineKeyboardButton('Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ💕', url=f"http://t.me/MH_MOVIESgroupbot?startgroup=true")
                 ],[
-                    InlineKeyboardButton('Mᴏᴠɪᴇ ɢʀᴏᴜᴘ🎥', url='https://t.me/wudixh')
+                    InlineKeyboardButton('Mᴏᴠɪᴇ ɢʀᴏᴜᴘ🎥', url='https://t.me/MH_moviesgroup01')
                 ],[
                     InlineKeyboardButton('Hᴇʟᴘ🔧', callback_data="help")
            ]]
@@ -85,7 +85,7 @@ async def help(bot, update):
 async def about(bot, update):
     
     buttons = [[
-            InlineKeyboardButton('Oᴡɴᴇʀ👤', url='https://t.me/wudixh13/4')
+            InlineKeyboardButton('Oᴡɴᴇʀ👤', url='https://t.me/psycho_009')
         ], [
             InlineKeyboardButton('🏡ʜᴏᴍᴇ', callback_data='start'),
             InlineKeyboardButton('ʙᴀᴄᴋ👈', callback_data='help')
