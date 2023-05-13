@@ -44,7 +44,7 @@ For More Details Click Help Button Below..
 @psycho_009
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <a href=https://t.me/im_kuttu2_bot>Kuttu Bot 2</a>
+    ABOUT_TEXT = """<b>➥ Name</b> : <a href=http://t.me/MH_MOVIESgroupbot>MH Bot🎥</a>
     
 <b>➥ Creator</b> : <b><i><a href="https://t.me/psycho_009">😎</a></i></b>
 
